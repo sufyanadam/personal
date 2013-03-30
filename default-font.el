@@ -11,4 +11,4 @@
   ;; WARNING: depending on the default font, some height value may
   ;; cause a broken frame display; that is, the beginning of the
   ;; buffer is not visible.
-  (set-face-attribute 'default nil :height 165))
+  (set-face-attribute 'default nil :height 125))
